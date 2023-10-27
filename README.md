@@ -1,7 +1,7 @@
 ### Olá, eu sou Samuel Gustavo
 
 - 🔭 Estou me preparando para trabalhos back-end, como também, alguns trabalhos webs
-- 🌱 Estou estudando java, javascript, html, css
+- 🌱 Estou estudando: java, javascript, html, css...
 - 📫 Contato: dev.samuelgustavo@gmail.com
 - 😄 Pronome: ele/dele
 

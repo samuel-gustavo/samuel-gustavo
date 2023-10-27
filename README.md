@@ -1,13 +1,9 @@
 ### Olá, eu sou Samuel Gustavo
 
-- 🔭 Hoje eu me preparação para trabalhos back-end, como também, alguns trabalhos webs...
-- 🌱 Estou estudando java, javascript, html, css...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: dev.samuelgustavo@gmail.com
-- 😄 Pronouns: ele/dele...
-- ⚡ Fun fact: ...
+- 🔭 Estou me preparando para trabalhos back-end, como também, alguns trabalhos webs
+- 🌱 Estou estudando java, javascript, html, css
+- 📫 Contato: dev.samuelgustavo@gmail.com
+- 😄 Pronome: ele/dele
 
 <div>
   <a href="https://github.com/samuel-gustavo"></a>
@@ -33,4 +29,6 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
- ![Snake animation](https://github.com/samuel-gustavo/samuel-gustavo/blob/output/github-contribution-grid-snake.svg)
+<!-- Cobrinha que come commits -- Precisa corrigir
+  ![Snake animation](https://github.com/samuel-gustavo/samuel-gustavo/blob/output/github-contribution-grid-snake.svg)
+-->

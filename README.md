@@ -8,8 +8,6 @@
   <a href="https://github.com/samuel-gustavo"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-gustavo&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gustavo&layout=compact&langs_count=16&theme=green"/>
-
-  https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gustavo
 </div>
 
 <div style="display: inline_block"><br>

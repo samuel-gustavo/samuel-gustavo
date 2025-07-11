@@ -3,12 +3,13 @@
 - 🔭 Estou me preparando para trabalhos back-end, como também, alguns trabalhos webs
 - 🌱 Estou estudando: java, javascript, html, css...
 - 📫 Contato: dev.samuelgustavo@gmail.com
-- 😄 Pronome: ele/dele
 
 <div>
   <a href="https://github.com/samuel-gustavo"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-gustavo&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gustavo&layout=compact&langs_count=16&theme=green"/>
+
+  https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-gustavo
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,8 +30,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
  </div>
 
 <!-- Cobrinha que come commits -- Precisa corrigir

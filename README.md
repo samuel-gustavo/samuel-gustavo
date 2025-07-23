@@ -31,4 +31,5 @@
  </div>
 
 <!-- Código de pegar imagem da cobrinha -->
-![Snake animation](https://github.com/samuel-gustavo/samuel-gustavo/blob/output/github-snake.svg)
+<h2><strong>🐍 Snake dos Commits</strong></h2>
+<img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg">

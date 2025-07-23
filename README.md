@@ -32,5 +32,5 @@
 
 <!-- Código de pegar imagem da cobrinha -->
 ## 🐍 Snake animada dos meus commits
-![GitHub Snake dark](https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/dist/github-snake-dark.svg?palette=github-dark)
+![GitHub Snake dark](https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/github-snake-dark.svg?palette=github-dark)
 

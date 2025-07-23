@@ -1,6 +1,6 @@
 ### Olá, eu sou Samuel Gustavo
 
-- 🔭 Estou me preparando para trabalhos back-end, como também, alguns trabalhos webs
+- 🔭 Estou me preparando para trabalhos back-end, como também, trabalhos de desenvolvimento Web
 - 🌱 Estou estudando: java, javascript, html, css...
 - 📫 Contato: dev.samuelgustavo@gmail.com
 
@@ -21,6 +21,8 @@
 
  ##
 
+<!-- Áreas das Logos das Redes Sociais -->
+<!--
  <div>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,6 +31,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
+ -->
 
 <!-- Código de pegar imagem da cobrinha -->
 ## 🐍 Snake animada dos meus commits

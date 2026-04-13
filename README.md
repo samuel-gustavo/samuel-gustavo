@@ -1,100 +1,62 @@
 <h1 align="center">Olá, eu sou Samuel Gustavo! 👋</h1>
 
-###
-
-<p align="left">🔭 Estou me preparando para trabalhos back-end, como também, trabalhos de desenvolvimento Web</p>
-
-###
-
-<p align="left">🌱 Estou estudando no momento: <br><br>Linguagens: Java, Python.<br>Framework: Springboot, Tailwind.</p>
-
-###
-
-<p align="left"></p>
-
-###
+<p align="center">
+  💻 Focado em Back-end & Desenvolvimento Web <br>
+  🚀 Em constante evolução
+</p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
+  </a>
 </div>
 
-###
+---
 
-<p align="left">Linguagens e Frameworks:</p>
+<!-- ### 🌐 Contato -->
 
-###
+
+### 👨‍💻 Atualmente estudando
+- **Linguagens:** Java, Python  
+- **Frameworks:** Spring Boot, Tailwind CSS  
+
+
+---
+
+### 🧠 Linguagens & Tecnologias
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=java,spring,tailwind,python,html,css,js,php,laravel,c,cpp" />
 </div>
 
-###
+---
 
-<p align="left">Ferramentas:</p>
-
-###
+### 🛠️ Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="60" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,nodejs,mysql,postgres,npm,bootstrap" />
 </div>
 
-###
+---
+
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=samuel-gustavo&locale=pt-br&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-gustavo&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="150" src="https://streak-stats.demolab.com?user=samuel-gustavo&theme=tokyonight-duo&hide_border=false"/>
+  <br/>
+  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-gustavo&theme=github-dark&area=true&hide_border=false"/>
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/pacman-contribution-graph-dark.svg">
@@ -102,4 +64,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<!-- ### 🕹️ Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/pacman-contribution-graph.svg"/>
+</div>
+-->

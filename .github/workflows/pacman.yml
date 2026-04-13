@@ -18,6 +18,9 @@ jobs:
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
+      - name: List output files
+        run: ls -l dist
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:

@@ -1,2 +1,30 @@
-- name: Clean cache
-  run: rm -rf $HOME/.cache
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # roda a cada 12h
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate pacman graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: samuel-gustavo
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: List output files
+        run: ls -l dist
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

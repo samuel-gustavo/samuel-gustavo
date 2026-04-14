@@ -35,7 +35,7 @@
 ### 🧠 Linguagens & Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,tailwind,python,html,css,js,php,laravel,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,spring,tailwind,bootstrap,python,html,css,js,php,laravel,c,cpp" />
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ### 🛠️ Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,nodejs,mysql,postgres,npm,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,nodejs,mysql,postgres,npm" />
 </div>
 
 ---
@@ -52,6 +52,7 @@
 
 <div align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=samuel-gustavo&theme=tokyonight-duo&hide_border=false"/>
+  <br/>
   <br/>
   <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-gustavo&theme=github-dark&area=true&hide_border=false"/>
 </div>

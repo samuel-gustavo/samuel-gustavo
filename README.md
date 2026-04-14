@@ -9,7 +9,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://mail.google.com/mail/?view=cm&to=dev.samuelgustavo@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="#">

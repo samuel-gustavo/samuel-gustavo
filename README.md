@@ -51,10 +51,12 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=samuel-gustavo&theme=tokyonight-duo&hide_border=false"/>
-  <br/>
-  <br/>
-  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-gustavo&theme=github-dark&area=true&hide_border=false"/>
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=samuel-gustavo&show_icons=true&locale=pt-br&theme=tokyonight"/>
+  <br/><br/> -->
+  <br />
+  <img height="150" src="https://streak-stats.demolab.com?user=samuel-gustavo&theme=tokyonight-duo"/>
+  <br/><br/>
+  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-gustavo&theme=github-dark&area=true"/>
 </div>
 
 ---

@@ -28,7 +28,7 @@
 ### 👨‍💻 Atualmente estudando
 - **Linguagens:** Java, Python  
 - **Frameworks:** Spring Boot, Tailwind CSS  
-
+- **Inteligência Artificial:** RAG, Agentes de IA  
 
 ---
 

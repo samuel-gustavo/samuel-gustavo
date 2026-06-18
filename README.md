@@ -32,7 +32,7 @@
 
 ---
 
-### 🧠 Linguagens & Tecnologias
+### 🧠 Linguagens & Tecnologias Utilizadas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,tailwind,bootstrap,python,html,css,js,php,laravel,c,cpp" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas Utilizadas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,nodejs,mysql,postgres,npm" />

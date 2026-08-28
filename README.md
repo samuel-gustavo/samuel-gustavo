@@ -48,23 +48,10 @@
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=samuel-gustavo&show_icons=true&locale=pt-br&theme=tokyonight"/>
-  <br/><br/> -->
-  <br />
-  <img height="150" src="https://streak-stats.demolab.com?user=samuel-gustavo&theme=tokyonight-duo&v=2"/>
-  <br/><br/>
-  <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-gustavo&theme=github-dark&area=true&v=2"/>
-</div>
-
----
-
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maiconroch06/maiconroch06/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maiconroch06/maiconroch06/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maiconroch06/maiconroch06/output/github-contribution-grid-snake.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samuel-gustavo/samuel-gustavo/output/github-contribution-grid-snake.svg">
  </picture>
 
 <!-- ### 🕹️ Contribuições

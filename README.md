@@ -26,16 +26,16 @@
 
 
 ### 👨‍💻 Atualmente estudando
-- **Linguagens:** PHP, Java, Python  
-- **Frameworks:** Laravel, Spring Boot, Tailwind CSS  
-- **Inteligência Artificial:** RAG, Agentes de IA  
+- **Linguagens:** PHP, Python  
+- **Frameworks:** Laravel, Tailwind CSS  
+- **Inteligência Artificial:** Agentes de IA, LLM
 
 ---
 
 ### 🧠 Linguagens & Tecnologias Utilizadas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,tailwind,bootstrap,python,html,css,js,php,laravel,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,tailwind,bootstrap,html,css,js,php,laravel,c,cpp" />
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ### 🛠️ Ferramentas Utilizadas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,nodejs,mysql,postgres,npm" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,figma,mysql" />
 </div>
 
 ---

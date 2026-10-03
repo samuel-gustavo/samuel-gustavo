@@ -6,17 +6,14 @@
 </p>
 
 <div align="center">
-  <a href="#">
+  <a href="www.linkedin.com/in/dev-samuel-gustavo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=dev.samuelgustavo@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/dev.samuelgustavo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
   </a>
 </div>
 
